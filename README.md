@@ -1,4 +1,2 @@
 # paragkonis-arxhgos
--( ) pls no
--( ) yes
-
+-( ) no
